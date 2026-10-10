@@ -1,0 +1,4 @@
+interface:
+  display_name: "MS Paint 口播视频制作"
+  short_description: "从逐句粗绘分镜、原图气泡页到用户配音对齐与完整视频导出"
+  default_prompt: "使用 $ms-paint-narrated-video，根据已确认文稿和画风制作分镜及口播视频，复用已认可的素材。"
